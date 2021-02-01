@@ -1,0 +1,276 @@
+/* F O N T  S T Y L E S */
+
+.introtext1{
+    font-family: proxima-nova, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 36px;
+    }
+
+.introtext2{
+    font-family: proxima-nova, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 32px;
+    font-family: , sans-serif;
+    padding-left: 48px;
+    padding-right: 48px;
+}
+
+.bodyspacing{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.titletwo{
+    font-family: museo-sans, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 26px;
+    letter-spacing: 1px;
+}
+
+.title3{
+    font-family: proxima-nova, sans-serif;
+    font-weight: 00;
+    font-style: normal;
+    font-size: 24px;
+}
+
+.titlefour{
+    font-family: proxima-nova, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 22px;
+}
+
+.titleheading{
+    font-family: proxima-nova, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 46px;
+}
+
+.titlesubheading{
+    font-family: proxima-nova, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 32px;
+}
+
+.subtitle{
+    font-family: proxima-nova, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 24px;
+}
+
+p.content{
+    font-family: proxima-nova, sans-serif;
+    color: black;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 20px;  
+}
+
+p.contenttwo{
+    font-family: proxima-nova, sans-serif;
+    color: black;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+}
+
+p.bold{
+    font-weight: 500;
+    font-size: 20px; 
+ 
+}
+
+
+
+.paraone{
+    color: black;
+    font-family: proxima-nova, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+
+
+a.projectname{
+    color: black;
+    text-decoration: none;
+}
+
+a.projectname:hover{
+    font-style: normal;
+    color: #b2b2b2; 
+    text-decoration: none;
+}
+
+
+
+
+
+.caption{
+    font-family: museo-sans, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.captiontwo{
+    font-family: museo-sans, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+
+
+.licencetext{
+    font-family: museo-sans, sans-serif;
+    color: #797979;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+
+/*.cardbox:hover .projecttitle{
+    text-decoration: none;
+    padding-left: 16px;
+    margin-top: 12px;
+    transform: translateY(-4px);
+}
+
+.caption{
+    font-family: museo-sans, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+
+
+.projectdate{
+    font-family: museo-sans, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 16px;
+    color: darkgrey;
+    text-decoration: none;
+    padding-left: 16px;
+    margin-top: 0px;
+    transition: all 0.1s ease;
+}
+
+.cardbox:hover .projectdate{
+    transform: translateY(-4px);
+}
+
+.content{
+    opacity: 0;
+    font-family: proxima-nova, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+    margin-top: -320px;
+    padding-left: 24px;
+    padding-right: 24px;
+    transition: all 0.1s ease;
+}
+
+/*.cardbox:hover .projectbio{
+    opacity: 1; 
+    transform: translateX(4px);
+    transition: all 0.5s ease;
+}/*
+
+
+
+
+#onhover:hover{
+    color: darkgrey;
+}
+
+#onhover .projectbrief{
+    font-family: museo-sans, sans-serif;
+    color: black;
+    font-weight: 500;
+    font-size: 18px;
+    font-style: normal;
+    margin-top: -20px;
+    padding-left: 5%;
+    padding-right: 10%;
+}
+
+.caption{
+    font-family: museo-sans, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    color: black;
+}
+
+.introimage{
+    width: 100%;
+    padding:20px;
+}
+
+#projectscreen{
+    width: 100%;
+    padding-left: 3.5%;
+    padding-right: 3.5%;
+    display:block;
+    background: white;
+}
+
+
+#projectblock{
+    color: black;
+}
+
+#projectblock:hover{
+    color: darkgrey;
+    
+}
+
+
+/*.projectmargintop{
+    margin-top: 200px;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

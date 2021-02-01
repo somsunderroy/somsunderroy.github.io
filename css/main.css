@@ -1,0 +1,128 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+.date{
+    display: block;
+    color: darkgrey;
+    font-family: museo-sans, sans-serif;
+    font-weight: 100;
+    font-size: 11px;
+    margin-top: 10px;
+    margin-left: 29px;
+}
+
+
+
+#navbar .currentpage{
+    font-weight: 900;
+    color: darkgrey;
+}
+
+#button{
+    text-align: center;
+    outline: none;
+    height: 60px;
+    width: 130px;
+    border: 2px solid lightgray;
+    color: lightgray;
+    background: white;
+    font-family: museo-sans, sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    transition: 0.4s ease;
+}
+
+#button:hover{
+    color: white;
+    text-decoration: none;
+    background: lightgray;
+    font-weight: 700;
+}
+
+.prevproject{
+    float: left;
+    display: block;
+    color: darkgrey;
+    font-family: museo-sans, sans-serif;
+    font-weight: 100;
+    font-size: 11px;
+    margin-top: -95px;
+}
+
+.nextproject{
+    float: right;
+    display: block;
+    color: darkgrey;
+    font-family: museo-sans, sans-serif;
+    font-weight: 100;
+    font-size: 11px;
+    margin-top: -95px;
+}
+
+#button{
+    text-align: center;
+    outline: none;
+    height: 60px;
+    width: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 2px solid #484848;
+    color: #484848;
+    background: white;
+    font-family: museo-sans, sans-serif;
+    font-weight: 900;
+    font-size: 25px;
+    transition: 0.4s ease;
+}
+
+#button:hover{
+    color: white;
+    border: 2px solid #484848;
+    background: #484848;
+    font-weight: 900;
+}
+
+#button1{
+    text-align: center;
+    outline: none;
+    height: 60px;
+    width: 350px;
+    border: 2px solid #484848;
+    color: #484848;
+    background: white;
+    font-family: museo-sans, sans-serif;
+    font-weight: 900;
+    font-size: 25px;
+    transition: 0.4s ease;
+}
+
+#button1:hover{
+    color: white;
+    border: 2px solid #484848;
+    background: #484848;
+    font-weight: 900;
+}
+
+.endnote{
+     text-align: center;
+    display: block;
+    color: lightgrey;
+    margin-top: 140px;
+    font-family: museo-sans, sans-serif;
+    font-weight: 900;
+    font-size: 25px;
+}
+
+
+
+
+::-webkit-scrollbar{
+   display: none;
+}
+
+

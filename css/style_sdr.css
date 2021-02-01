@@ -1,0 +1,278 @@
+body{
+    margin: 0px;
+    width: 100%;
+    padding: 0px;
+}
+
+.buffer{margin-top: 20px; margin-bottom: 20px;}
+
+ul{
+    width: 500px;
+    list-style: none;
+    font-family: museo-sans, sans-serif;
+}
+
+ul li{
+    color: darkgrey;
+    width:100px;
+    display: inline-block;
+    margin-left: 3px;
+    margin-right: 3px;
+    text-align: center;
+    transition-duration: 0.3s;
+}
+
+ul li:hover{
+    cursor:pointer;
+    color: black;
+}
+
+#alltextwhite{
+    color: #ebebeb;
+}
+
+#allbgwhite{
+    background-color: #ebebeb;
+}
+
+#line{
+    height: 3px;
+    width: 100px;
+    margin-left: 115px;
+    background-color: darkslategrey;
+    transition: all.3s linear;
+}
+
+#videointerface{
+position: sticky;
+width: 400px;
+}
+
+#video{
+position: sticky;
+}
+
+.titletext{
+    font-family: museo-sans, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40px;
+    margin-top: 300px;
+    margin-bottom: 20px;
+    color: black;
+}
+
+.heading{
+    font-family: museo-sans, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 25px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    color: black;
+}
+
+.headingdark{
+    font-family: museo-sans, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 25px;
+    margin-top: 300px;
+    margin-bottom: 100px;
+    color: white;
+}
+
+.subheading{
+    font-family: museo-sans, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 28px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    color: black;
+}
+
+.subheadingdark{
+    font-family: museo-sans, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 28px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    color: lightgray;
+}
+
+
+
+
+.contentdark{
+    font-family: museo-sans, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 18px;
+    color: lightgray;
+    margin-top: 80px;
+}
+
+.interfacefeatures{
+    font-family: museo-sans, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 18px;
+    padding: 50px;
+    color: lightgray;
+}
+
+.briefcontent{
+    font-family: museo-sans, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 28px;
+    margin: 50px;
+    color: black;
+}
+
+
+
+#caption{
+    font-family: museo-sans, sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    text-align: center;
+    font-size: 12px;
+    margin-top: 5px ;
+    margin-bottom: 50px;
+    color: black;
+}
+
+.licence{
+    background: white;
+    top: 0;
+    margin-left: 150px;
+    width: 1000px;
+    height: 80px;
+    display: block;
+}
+
+.licence licencetext{
+    font-family: museo-sans, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 18px;
+    margin-bottom: 50px;
+    color: black;
+}
+
+
+p {
+    display: block;
+    color: black;
+    font-family: proxima nova, sans-serif;
+    font-weight: 400;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.centered{
+    top: 50%;
+    
+}
+
+.imagepadding{
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 50px;
+}
+
+.button1{
+    background-color: white;
+    border-radius: 0px;
+    border: 2px solid #e7e7e7;
+    color: lightgrey;
+    font-family: sans-serif;
+    margin-top: 50px;
+    padding: 20px 30px;
+    transition-duration: 0.3s;
+}
+
+.button1:hover{
+    background-color: darkgrey;
+    color: white;
+}
+
+.dipperimg1{
+    display: block;
+    opacity: 0;
+    transition: all 200ms ease-in;
+}
+
+.dipperimg2{
+    display: block;
+    opacity: 0;
+    transition: all 200ms ease-in;
+}
+
+.js-dipper-animate{
+    opacity: 1;
+}
+
+.numberofinterviews{
+    font-size: 30pt;
+    font-weight: 600;
+}
+
+.darkbackground{
+    display: block;
+    background-color: #3A393B;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+}
+
+.sdr_scenario{
+    width: 1000px;
+    margin-right: 200px;
+}
+
+.connectedcars{
+    width: 700px;
+    margin: auto;
+    margin-left: 70px;
+    margin-right: 70px;
+    
+}
+
+
+
+
+
+
+
+.imagebox{
+    margin-top: 120px;
+    margin-bottom: 120px;
+    padding: 24px;
+}
+
+.scenarioboxvideo{
+    margin-top: 12px;
+    margin-bottom: 120px;
+}
+
+.scenarioboxtext{
+    margin-top: 24px;
+    margin-bottom: 12px;
+}
+
+.thankyoubufferextra{
+    margin-bottom: 220px;
+}
+
+.footerextrabuffer{
+    margin-top: 240px;
+}
+
