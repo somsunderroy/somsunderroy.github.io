@@ -150,15 +150,16 @@ position: sticky;
     text-align: center;
     display: block;
     height: 150px;
-    margin-top: 160px;
-    margin-bottom: 40px;
+    margin-top: 240px;
+    margin-bottom: 160px;
     border-radius: 12px;
     box-shadow: 12px 12px white;
 }
 
 .introboxtext{
     width: 84%;
-    padding-top:16px;
+    text-align: center;
+    padding-top:36px;
     padding-left: 10%;
 }
 
@@ -237,7 +238,7 @@ position: sticky;
 .cardboxproject{
     display: block;
     width: 100%;
-    height: 480px;
+    height: 540px;
 }
 
 
