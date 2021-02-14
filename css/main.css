@@ -102,7 +102,7 @@ margin-top: 4vw;
 
 #footer{
 margin-top: 4vw;
-margin-bottom: 0.6vw;
+margin-bottom: 20px;
     
 }
 
@@ -116,15 +116,15 @@ margin-bottom: 0.6vw;
 .box1{
     width: 448px;
     height: 448px;
-    margin: 0.6vw;
+    margin: 10px;
     padding: 3vw;
-
 }
+
 
 .box2{
     height: 448px;
     width: 916px;
-    margin: 0.6vw;
+    margin: 8px;
     padding-left: 4vw;
     padding-right: 4vw;
 }
@@ -132,7 +132,7 @@ margin-bottom: 0.6vw;
 .box3{
     height: 448px;
     width: 448px;
-    margin: 0.6vw;
+    margin: 10px;
 }
 
 .box3:hover{
@@ -141,8 +141,9 @@ margin-bottom: 0.6vw;
     border-style: solid;
     border-color: #2d2d2d;
     display: block;
-    box-shadow: 12px 12px;
-    transform: translateY(-8px);
+    box-shadow: 8px 8px;
+    transform: translate(-8px,-8px);
+    transition: transform .1s ease-out;
     background-image: radial-gradient(#2d2d2d 20%, #ffffff 20%);
     background-position: 0 0;
     background-size: 5px 5px;
@@ -157,7 +158,7 @@ margin-bottom: 0.6vw;
 .box4{
     height: 249.5px;
     width: 331px;
-    margin: 0.6vw;
+    margin: 10px;
 }
 
 
@@ -167,13 +168,14 @@ margin-bottom: 0.6vw;
     border-color: #2d2d2d;
     display: block;
     box-shadow: 8px 8px;
-    transform: translateY(-8px);
+    transform: translate(-8px,-8px);
+    transition: transform .1s ease-out;
 }
 
 .box5{
     width: 100%;
     height: 331px;
-    margin: 0.6vw;
+    margin: 10px;
     padding: 3vw;
 
 }
@@ -181,27 +183,49 @@ margin-bottom: 0.6vw;
 .box6{
     height: 248.5px;
     width: 61.5px;
-    margin: 0.6vw;
+    margin: 10px;
 }
 
 .box7{
     height: 96px;
     width: 331px;
-    margin: 0.6vw;
+    margin: 10px;
 }
 
 .box8{
     height: 96px;
     width: 96px;
-    margin: 0.6vw;
+    margin: 10px;
 }
 
 .box8:hover{
     display: block;
     box-shadow: 8px 8px;
     transform: translateY(-8px);
-    margin: 0.6vw;
 }
+
+
+
+/* --------------------------------------------------- IPAD */
+@media only screen and (max-width: 1024px) {
+    
+    .box1 {
+        width: 916px;
+        height: 336px;
+    }
+    
+    .box2{
+        height: 336px;
+    }
+    
+    .box4{
+        width:448px;
+        height: 337px;
+    }
+}
+
+
+/* -------------------------------------------------------------THEMES */
 
 .themedotted{
 	background-image: radial-gradient(#2d2d2d 20%, #f0f0f0 20%);
