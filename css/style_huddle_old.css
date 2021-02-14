@@ -1,0 +1,78 @@
+.huddlescenario{
+    padding: 30px;
+}
+
+.sceneheading{
+    font-family: museo-sans, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 28px;
+    margin-top: 150px;
+    margin-bottom: 20px;
+    color: darkgrey;
+}
+
+.painpoint{
+    width: 600px;
+    margin-left: 120px;
+    margin-bottom: 100px;
+}
+
+.imagebuffer{
+    margin-bottom: 50px;
+}
+
+.magicbox{
+    width: 50%;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.scope{
+    float: left;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.scenepic{
+    width: 350px;
+    padding: 40px;
+    margin-left: 15px;
+    margin-top: 50px;
+}
+
+.wireframe{
+    width: 1100px;
+    float: left;
+    margin-left: -120px;
+    margin-bottom: 100px;
+}
+
+.scenetext{
+    font-family: museo-sans, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    color: #484848;
+}
+
+.goaltext{
+    font-family: museo-sans, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 25px;
+    color: #484848;
+}
+
+.goalbuffer{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.goalsketch{
+    float: left;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
